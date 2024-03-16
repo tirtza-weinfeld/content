@@ -1,4 +1,4 @@
-<docs-decorative-header title="Cheat Sheets" imgSrc="src/assets/images/cheatsheets.svg"> <!-- markdownlint-disable-line -->
+<docs-decorative-header title="Cheat Sheets" imgSrc="src/assets/images/cheatsheets.svg"> 
 </docs-decorative-header>
 
 
