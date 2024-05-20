@@ -24,3 +24,13 @@
 | `head`      | `head` _`file1`_          | Show first 10 lines of _`file1`_             |
 | `tail`      | `tail` _`file1`_          | Show last 10 lines of _`file1`_              |
 | `tail` `-F` | `tail` `-F` _`file1`_     | Output last lines of _`file1`_ as it changes |
+
+## Process Management
+
+| Command        | Uasge | Description                                  |
+| :------------- | :---- | :------------------------------------------- |
+| `ps          ` |       | Show snapshot of processes                   |
+| `top         ` |       | Show real time processes                     |
+| `kill pid    ` |       | Kill process with id pid                     |
+| `pkill name  ` |       | Kill process with name name                  |
+| `killall name` |       | Kill all processes with names beginning name |

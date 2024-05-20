@@ -61,7 +61,8 @@ A new repository can either be created locally, or an existing repository can be
 
 ## The .gitignore file
 
-Sometimes it may be a good idea to exclude files from being tracked with Git. This is typically done in a special file named `.gitignore`. You can find helpful templates for `.gitignore` files at [github.com/github/gitignore](github.com/github/gitignore).
+Sometimes it may be a good idea to exclude files from being tracked with Git. This is typically done in a special file named `.gitignore`. You can find helpful templates for `.gitignore` files at [github.com/github/gitignore](https://github.com/github/gitignore)
+
 
 ## Synchronize changes
 
